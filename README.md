@@ -1,3 +1,3 @@
 git practice 
 <br>
-author : Ritik rana
+author : Ritik Rana
